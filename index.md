@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Academic Cloud Computing Threat Patterns (ACCTP) catalog 
 
-You can use the [editor on GitHub](https://github.com/nets4geeks/acctp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor://github.com/nets4geeks/acctp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
