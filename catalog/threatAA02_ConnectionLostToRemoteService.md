@@ -5,5 +5,6 @@
 |Context|Cloud application uses a remote service|
 |Problem|Connection lost to the remote service|
 |Solution|Ensure fault tolerance of the network connection; Replace the remote service by a local one;|
+|References|BNA-3: Loss of wide-area network connectivity... [SECCRIT]|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog.html) /

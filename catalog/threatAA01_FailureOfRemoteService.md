@@ -5,5 +5,6 @@
 |Context|Cloud application uses a remote service|
 |Problem|Unexpected failure of the remote service|
 |Solution|Ensure fault tolerance of the remote service; Apply a standby remote service; Replace the remote service by a local one;|
+|References||
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog.html) /
