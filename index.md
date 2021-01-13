@@ -1,40 +1,25 @@
 ## Overview 
 
+The Academic Cloud Computing Threat Patterns (ACCTP) catalog depicts common threats to cloud-based computer systems.
+It is based on the data of the common security knowledge sources, as well as the academic community findings.
+It “mines” the knowledge of the risk-oriented cloud security models and maps the risk-based terminology (risks, assets) 
+to the design terminology (components, flows, boundaries, threats).
 
-[Link](catalog/testpage.md)
+The [ACCTP catalog](catalog.md) contains a set of profiles (architecture, compliance, privacy, IaaS, PaaS, SaaS, cloud storage); 
+the entities are mapped to the STRIDE model.
 
-You can use the [editor://github.com/nets4geeks/acctp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The ACCTP catalog is well-formed with the [ontological SP schema](https://github.com/nets4geeks/SPCatalogMaker).
+Entities are saved as JSON files. There is an OWL ontology and RDF dataset of the catalog data 
+(see the [sources folder](https://github.com/nets4geeks/SPCatalogMaker/catalogs/acctp/catalog)).
+You can use the OWL ontology to make DL queries, for example, with the Protege editor,
+and the RDF dataset to make the SPARQL requests with the Apache Jena toolset.
+Also, the ACCTP catalog can be used as a source of domain specific threat model, used in 
+the [ontology-driven threat modeling](https://github.com/nets4geeks/OdTM) of the cloud systems with 
+the DFD (Data Flow Diagram) approach.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resources
 
-### Markdown
+* The [ACCTP catalog](catalog.md)
+* The [sources folder](https://github.com/nets4geeks/SPCatalogMaker/catalogs/acctp/catalog)
+* [References](references.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nets4geeks/acctp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
