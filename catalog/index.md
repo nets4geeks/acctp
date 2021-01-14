@@ -1,6 +1,7 @@
 / [Home](/acctp/) /
 
 ## Threat Patterns
+AXXX - Architecture profile, BXXX - Compliance profile
 
 * [AA01 Failure Of Remote Service](/acctp/catalog/threatAA01_FailureOfRemoteService.html)
 * [AA02 Connection Lost To Remote Service](/acctp/catalog/threatAA02_ConnectionLostToRemoteService.html)
