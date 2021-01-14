@@ -4,7 +4,7 @@
 
 |Context|Someone interacts with a cloud application|
 |Problem|Unexpected failure of the cloud application|
-|Solution|Ensure fault tolerance of the remote service;<br /> Apply a standby remote service;<br /> Replace the remote service by a local one;<br />|
+|Solution|Ensure fault tolerance of the cloud infrastructure;<br /> Apply automatic recovery of the cloud application;<br /> Apply autoscaling of the cloud application;<br /> Apply clustrer-like configuration and load balancing of the cloud application;<br />|
 |References|TIS.043, TIS.142 [BDU]|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog.html) /
