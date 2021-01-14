@@ -1,4 +1,4 @@
-/ [Home](/acctp/) / [Catalog](/acctp/catalog.html) /
+/ [Home](/acctp/) / [Catalog](/acctp/catalog/) /
 
 ## AA01 Failure Of Remote Service
 
@@ -7,4 +7,4 @@
 |Solution|Ensure fault tolerance of the remote service;<br /> Apply a standby remote service;<br /> Replace the remote service by a local one;<br />|
 |References||
 
-/ [Home](/acctp/) / [Catalog](/acctp/catalog.html) /
+/ [Home](/acctp/) / [Catalog](/acctp/catalog/) /
