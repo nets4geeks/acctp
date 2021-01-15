@@ -31,4 +31,4 @@ This is an open project and everyone can participate with contributions.
 Please [send your issues](https://github.com/nets4geeks/SPCatalogMaker/issues) or [start a discussion](https://github.com/nets4geeks/SPCatalogMaker/discussions).
 
 
-[[lic](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
