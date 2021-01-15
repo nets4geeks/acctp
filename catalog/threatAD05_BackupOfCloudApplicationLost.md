@@ -1,15 +1,15 @@
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
 
-## AD02 Broken Access Control
+## AD05 Backup Of CloudApplication Lost
 
 |Context|Someone interacts with a cloud application|
-|Problem|No access control or broken (weak) access control by the cloud application|
-|Solution|Apply access control model;<br /> Apply access management;<br />|
-|References|Broken Access Control [OWASP10]|
+|Problem|Lost of cloud application backup|
+|Solution||
+|References|R.32: BACKUPS LOST, STOLEN [ENISA];<br /> Data Retention [Rath]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|
 |Aggressor|su:comp_CloudApplication;<br /> su:comp_ExternalService;<br /> su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
-|STRIDE||
+|STRIDE|ns:STRIDE_Denial_of_Service|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

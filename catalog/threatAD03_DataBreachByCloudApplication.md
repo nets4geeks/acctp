@@ -4,8 +4,8 @@
 
 |Context|Someone interacts with a cloud application|
 |Problem|Data breach (information disclosure) by the cloud application|
-|Solution|Ensure data security of cloud infrastructure (cloud application);<br /> Apply data encryption (cloud application);<br />|
-|References|Sensitive_Data_Exposure [OWASP10];<br /> Data Breaches [CSA10];<br /> R.19: Compromise service engine [ENISA];<br /> Compromise service engine [QUIRC];<br /> Computation on Encrypted Data [Rath];<br />|
+|Solution|Ensure data security of cloud infrastructure (cloud application);<br /> Apply data encryption to the cloud application);<br />|
+|References|Sensitive Data Exposure [OWASP10];<br /> Data Breaches [CSA10];<br /> R.19: Compromise service engine [ENISA];<br /> Compromise service engine [QUIRC];<br /> Computation on Encrypted Data [Rath];<br />|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|
 |Aggressor|su:comp_CloudApplication;<br /> su:comp_ExternalService;<br /> su:comp_RemoteUser|

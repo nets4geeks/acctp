@@ -1,15 +1,15 @@
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
 
-## AD02 Broken Access Control
+## AD07 Log Of Cloud Application Lost
 
 |Context|Someone interacts with a cloud application|
-|Problem|No access control or broken (weak) access control by the cloud application|
-|Solution|Apply access control model;<br /> Apply access management;<br />|
-|References|Broken Access Control [OWASP10]|
+|Problem|Lost of cloud application log|
+|Solution|Apply third-part log service|
+|References|R30, R.31 Lost or compromise of operational or security logs [ENISA]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|
 |Aggressor|su:comp_CloudApplication;<br /> su:comp_ExternalService;<br /> su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
-|STRIDE||
+|STRIDE|ns:STRIDE_Repudiation|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

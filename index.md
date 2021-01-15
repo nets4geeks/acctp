@@ -9,7 +9,7 @@ It is based on the data of common security knowledge sources, as well as academi
 The ACCTP catalog contains a set of profiles (architecture, compliance, privacy, IaaS, PaaS, SaaS, cloud storage); 
 the entities are mapped to the STRIDE model.
 
-The ACCTP catalog is well-formed with the [SPCatalogMaker toolset](https://github.com/nets4geeks/SPCatalogMaker).
+The ACCTP catalog is well-formed with the [SPCatalogMaker](https://github.com/nets4geeks/SPCatalogMaker) toolset.
 Entities are saved as JSON files. There is an OWL ontology and RDF dataset of the catalog data 
 (see [sources folder](https://github.com/nets4geeks/SPCatalogMaker/tree/master/catalogs/acctp/catalog)).
 You can use the ontology to make DL queries, for example, with the Protege editor,
