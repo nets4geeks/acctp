@@ -1,4 +1,4 @@
-## Overview 
+## Overview
 
 The [Academic Cloud Computing Threat Patterns (ACCTP) catalog](catalog/) depicts common threats to cloud-based computer systems.
 It “mines” knowledge of risk-oriented cloud security models and maps the risk-based terminology (risks, assets) 
@@ -27,8 +27,10 @@ of cloud systems with Data flow diagrams (DFDs).
 
 ## Feedback
 
-This is an open project and everyone can participate with contributions.
-Please [send your issues](https://github.com/nets4geeks/SPCatalogMaker/issues) or [start a discussion](https://github.com/nets4geeks/SPCatalogMaker/discussions).
+This is an open project and everyone is welcome to participate with contributions.
+Please [send issues](https://github.com/nets4geeks/SPCatalogMaker/issues) 
+and [get into the discussion](https://github.com/nets4geeks/SPCatalogMaker/discussions/1)
+on GitHub.
 
 
-[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+license: [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
