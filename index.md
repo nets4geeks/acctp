@@ -12,11 +12,11 @@ the entities are mapped to the STRIDE model.
 The ACCTP catalog is well-formed with the [SPCatalogMaker](https://github.com/nets4geeks/SPCatalogMaker) toolset.
 Entities are saved as JSON files. There is an OWL ontology and RDF dataset of the catalog data 
 (see [sources folder](https://github.com/nets4geeks/SPCatalogMaker/tree/master/catalogs/acctp/catalog)).
-You can use the ontology to make DL queries, for example, with the Protege editor,
-and the dataset to make the SPARQL requests with the Apache Jena tool.
-Also, the ACCTP catalog can be used as a source of domain specific threat model for 
-the [ontology-driven threat modeling](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/) 
-of cloud systems with Data flow diagrams (DFDs).
+
+The ACCTP catalog is used as a source of domain specific threat model for the 
+[ontology-driven threat modeling](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/) 
+of cloud systems with Data flow diagrams (DFDs). Also, You can use the OWL ontology to make DL queries, 
+for example, with the Protege editor, and the RDF dataset to create the SPARQL requests with the Apache Jena tool.
 
 ## Content
 

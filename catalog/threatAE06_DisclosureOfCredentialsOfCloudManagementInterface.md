@@ -10,6 +10,6 @@
 |Victim|su:comp_CloudApplication|
 |Aggressor|su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
-|STRIDE|Management Interface Compromise [QUIRC]|
+|STRIDE|ns:STRIDE_Information_Disclosure|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
