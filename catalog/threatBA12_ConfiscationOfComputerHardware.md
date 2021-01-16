@@ -10,6 +10,6 @@
 |Victim|su:comp_CloudApplication|
 |Aggressor|su:comp_ComplianceManager|
 |Aggr. role|ns:role_Client|
-|STRIDE||
+|STRIDE|ns:STRIDE_Information_Disclosure;<br /> ns:STRIDE_Denial_of_Service|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

@@ -1,10 +1,10 @@
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
 
-## AD07 Log Of Cloud Application Lost
+## AD07 Logs Of Cloud Application Lost
 
 |Context|Someone interacts with a cloud application|
-|Problem|Lost of cloud application log|
-|Solution|Apply third-part log service|
+|Problem|Lost of cloud application logs|
+|Solution|Apply third-part logs service|
 |References|R30, R.31 Lost or compromise of operational or security logs [ENISA]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|

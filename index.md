@@ -15,7 +15,7 @@ Entities are saved as JSON files. There is an OWL ontology and RDF dataset of th
 
 The ACCTP catalog is used as a source of domain specific threat model for the 
 [ontology-driven threat modeling](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/) 
-of cloud systems with Data flow diagrams (DFDs). Also, You can use the OWL ontology to make DL queries, 
+of cloud systems with Data flow diagrams (DFDs). Also, you can use the OWL ontology to make DL queries, 
 for example, with the Protege editor, and the RDF dataset to create the SPARQL requests with the Apache Jena tool.
 
 ## Content
