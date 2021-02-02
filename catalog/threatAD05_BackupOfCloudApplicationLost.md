@@ -1,6 +1,6 @@
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
 
-## AD05 Backup Of CloudApplication Lost
+## AD05 Backup Of Cloud Application Lost
 
 |Context|Someone interacts with a cloud application|
 |Problem|Lost of cloud application backup|

@@ -4,7 +4,7 @@
 
 |Context|Someone interacts with a cloud application|
 |Problem|Connection lost to the cloud application|
-|Solution|Ensure fault tolerance of the network connection;<br /> Apply clustrer-like configuration and load balancing of the cloud application;<br /> Apply Multi Availability Zone Deployment;<br /> Apply Content Distribution Networks (CDN)|
+|Solution|Ensure fault tolerance of the network connection;<br /> Apply Availability Zones (AZ) to the cloud application;<br /> Apply Content Distribution Network (CDN) to the cloud application|
 |References|BNA-3: Loss of wide-area network connectivity... [SECCRIT]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication;<br /> su:comp_RemoteUser;<br /> su:comp_ExternalService|

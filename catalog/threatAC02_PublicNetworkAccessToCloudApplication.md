@@ -4,7 +4,7 @@
 
 |Context|Remote user interacts with a cloud application|
 |Problem|Remote user connects to the cloud application though a public network (e.g. Wi-Fi) and can be attacked by a third-party adversary|
-|Solution|Apply TLS-based encryption and certificate for connection (cloud application)|
+|Solution|Apply TLS encryption and certificate for the cloud application;<br /> Apply VPN access to the cloud application|
 |References|BNA-4: Man-in-the-middle attack... [SECCRIT] |
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_RemoteUser|

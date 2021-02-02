@@ -17,7 +17,7 @@ AXXX - Architecture profile, BXXX - Compliance profile, CXXX - Privacy profile
 * [AD02 Broken Access Control](/acctp/catalog/threatAD02_BrokenAccessControl.html)
 * [AD03 Data Breach By Cloud Application](/acctp/catalog/threatAD03_DataBreachByCloudApplication.html)
 * [AD04 Data Loss By Cloud Application](/acctp/catalog/threatAD04_DataLossByCloudApplication.html)
-* [AD05 Backup Of CloudApplication Lost](/acctp/catalog/threatAD05_BackupOfCloudApplicationLost.html)
+* [AD05 Backup Of Cloud Application Lost](/acctp/catalog/threatAD05_BackupOfCloudApplicationLost.html)
 * [AD06 Backups Of Cloud Application Stolen](/acctp/catalog/threatAD06_BackupOfCloudApplicationStolen.html)
 * [AD07 Logs Of Cloud Application Lost](/acctp/catalog/threatAD07_LogOfCloudApplicationLost.html)
 * [AD08 Logs Of Cloud Application Stolen](/acctp/catalog/threatAD08_LogOfCloudApplicationStolen.html)

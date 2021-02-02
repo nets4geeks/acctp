@@ -4,7 +4,7 @@
 
 |Context|Remote user interacts with a cloud application|
 |Problem|Remote user suffers from Social Engineering attacks, performed by third-party adversary (e.g. including the cloud application into phishing schema)|
-|Solution|Apply TLS-based encryption and certificate for connection (cloud application);<br /> Apply security awareness;<br /> Apply security training;<br />|
+|Solution|Apply security awareness (cloud application);<br /> Apply security training (remote user);<br />|
 |References|R.29: Social engineering attacks (impersonation) [ENISA]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_RemoteUser|
