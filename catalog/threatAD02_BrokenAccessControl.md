@@ -3,13 +3,13 @@
 ## AD02 Broken Access Control
 
 |Context|Someone interacts with a cloud application|
-|Problem|No access control or broken (weak) access control by the cloud application|
-|Solution|Apply access control model;<br /> Apply access management;<br />|
+|Problem|No access control, broken (weak) access control, and the authorization issues of the cloud application|
+|Solution|Follow the principle of least privilege;<br /> Apply Authorization;<br /> Apply Audit;<br /> Apply Mandatory Access Control (MAC);<br /> Apply Discretionary Access Control (DAC);<br /> Apply Role-Based Access Control (RBAC);<br /> Apply management of user sessions;<br /> Secure user IDs and tokens;<br /> Ensure proper file permissions;<br /> Avoid Path Traversal;<br /> Avoid Client Side Caching;<br />|
 |References|Broken Access Control [OWASP10]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|
 |Aggressor|su:comp_CloudApplication;<br /> su:comp_ExternalService;<br /> su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
-|STRIDE||
+|STRIDE|ns:STRIDE_Elevation_of_Privilege|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
