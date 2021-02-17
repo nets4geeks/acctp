@@ -4,7 +4,7 @@
 
 |Context|Someone interacts with a cloud application|
 |Problem|No access control, broken (weak) access control, and the authorization issues of the cloud application|
-|Solution|Follow the principle of least privilege;<br /> Apply Authorization;<br /> Apply Audit;<br /> Apply Mandatory Access Control (MAC);<br /> Apply Discretionary Access Control (DAC);<br /> Apply Role-Based Access Control (RBAC);<br /> Apply management of user sessions;<br /> Secure user IDs and tokens;<br /> Ensure proper file permissions;<br /> Avoid Path Traversal;<br /> Avoid Client Side Caching;<br />|
+|Solution|Follow the principle of least privilege;<br /> Apply Authorization;<br /> Apply Audit;<br /> Apply Mandatory Access Control (MAC);<br /> Apply Discretionary Access Control (DAC);<br /> Apply Role-Based Access Control (RBAC);<br /> Apply management of user sessions;<br /> Secure user IDs and tokens;<br /> Ensure proper file permissions;<br /> Avoid Path Traversal;<br />|
 |References|Broken Access Control [OWASP10]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|
