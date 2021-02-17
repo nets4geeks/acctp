@@ -1,10 +1,10 @@
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
 
-## AD06 Backups Of Cloud Application Stolen
+## AD06 Backup Of Cloud Application Stolen
 
 |Context|Someone interacts with a cloud application|
 |Problem|Disclosure of cloud application backups|
-|Solution||
+|Solution|Apply data backup encryption;<br /> Ensure strong encryption algorithms of data backup;<br />|
 |References|R.32: Backups lost, stolen [ENISA]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|

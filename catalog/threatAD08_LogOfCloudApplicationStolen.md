@@ -4,7 +4,7 @@
 
 |Context|Someone interacts with a cloud application|
 |Problem|Disclosure of sensitive information from cloud application logs|
-|Solution|Apply third-part logs service|
+|Solution|Avoid storing of sensitive data in logs;<br /> Apply logs encryption;<br /> Ensure strong encryption algorithms for logs;<br />|
 |References|R30, R.31 Lost or compromise of operational or security logs [ENISA]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|
