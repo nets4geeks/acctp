@@ -4,7 +4,7 @@
 
 |Context|Remote user interacts with a cloud application|
 |Problem|Remote side can perform remote malicious activities based on misconfiguration or vulnerabilities of the cloud application|
-|Solution|Apply firewall service;<br /> Apply bastion host;<br /> Apply threat detection service;<br /> Apply Web Application Firewall (WAF)|
+|Solution|Apply firewall service;<br /> Apply bastion host;<br /> Apply intrusion detection;<br /> Apply intrusion prevention;<br /> Apply Web Application Firewall (WAF);<br /> Apply Cyber Threat Intelligence (CTI) service;<br />|
 |References|Automated Threat Detection, Web Application Firewall [Rath]|
 |Type|ns:type_ThreatPattern|
 |Victim|su:comp_CloudApplication|
