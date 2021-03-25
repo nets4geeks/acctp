@@ -53,6 +53,6 @@ DXXX - IaaS Profile
 * [DC05 Rogue VM Image In Repository](/acctp/catalog/threatDC05_RogueVMImageInRepository.html)
 * [DC06 Outdated VM Image In Repository](/acctp/catalog/threatDC06_OutdatedVMImageInRepository.html)
 * [DC07 Lack Of Network Isolation](/acctp/catalog/threatDC07_LackOfNetworkIsolation.html)
-* [DC08_Unsafe VM Snapshots](/acctp/catalog/threatDC08_UnsafeVMSnapshots.html)
+* [DC08 Unsafe VM Snapshots](/acctp/catalog/threatDC08_UnsafeVMSnapshots.html)
 
 / [Home](/acctp/) /

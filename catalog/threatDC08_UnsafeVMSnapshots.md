@@ -1,6 +1,6 @@
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
 
-## DC08_Unsafe VM Snapshots
+## DC08 Unsafe VM Snapshots
 
 |Context|Compliance manager works with virtual machine|
 |Problem|Security issues, related to management of VM snapshots|
