@@ -44,7 +44,8 @@ DXXX - IaaS Profile
 * [BA14 Physical Access Or Theft Of Computer Equipment](/acctp/catalog/threatBA14_PhysicalAccessOrTheftOfComputerEquipment.html)
 * [BA15 Destruction Of Data Center](/acctp/catalog/threatBA15_DestructionOfDataCenter.html)
 * [DB01 Priviledge Escalation](/acctp/catalog/threatDB01_PriviledgeEscalation.html)
-* [DB02 Network Scanning](/acctp/catalog/threatDB02_NetworkScanning.html)
+* [DB02 Remote Code Execution](/acctp/catalog/threatDB02_RemoteCodeExecution.html)
+* [DB03 Network Scanning](/acctp/catalog/threatDB03_NetworkScanning.html)
 * [DC01 VM Escape](/acctp/catalog/threatDC01_VMEscape.html)
 * [DC02 Cross-VM Side Channel](/acctp/catalog/threatDC02_CrossVMSideChannel.html)
 * [DC03 Hypervisor Vulnerabilities](/acctp/catalog/threatDC03_HypervisorVulnerabilities.html)
@@ -52,5 +53,6 @@ DXXX - IaaS Profile
 * [DC05 Rogue VM Image In Repository](/acctp/catalog/threatDC05_RogueVMImageInRepository.html)
 * [DC06 Outdated VM Image In Repository](/acctp/catalog/threatDC06_OutdatedVMImageInRepository.html)
 * [DC07 Lack Of Network Isolation](/acctp/catalog/threatDC07_LackOfNetworkIsolation.html)
+* [DC08_Unsafe VM Snapshots](/acctp/catalog/threatDC08_UnsafeVMSnapshots.html)
 
 / [Home](/acctp/) /

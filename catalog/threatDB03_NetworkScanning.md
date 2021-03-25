@@ -1,6 +1,6 @@
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
 
-## DB02 Network Scanning
+## DB03 Network Scanning
 
 |Context|Remote user interacts with a virtual machine|
 |Problem|Network and port scanning, service and version detection of VM from Internet|
