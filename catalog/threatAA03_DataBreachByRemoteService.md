@@ -11,6 +11,6 @@
 |Aggressor|su:comp_ExternalService|
 |Aggr. role|ns:role_Server|
 |STRIDE|ns:STRIDE_Information_Disclosure|
-|THREAT|ns:threat_txMessageSecrecyViolation;<br /> ns:threat_txTrafficAnalysisAndSniffing;<br /> ns:threat_txOutputInformationDisclosure;<br /> ns:threat_txDataInference|
+|Threat|ns:threat_txMessageSecrecyViolation;<br /> ns:threat_txTrafficAnalysisAndSniffing;<br /> ns:threat_txOutputInformationDisclosure;<br /> ns:threat_txDataInference|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

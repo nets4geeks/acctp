@@ -11,6 +11,6 @@
 |Aggressor|su:comp_ExternalService|
 |Aggr. role|ns:role_Server|
 |STRIDE|ns:STRIDE_Denial_of_Service|
-|THREAT|ns:threat_txMessageFlooding;<br /> ns:threat_txResourceExhaustion|
+|Threat|ns:threat_txMessageFlooding;<br /> ns:threat_txResourceExhaustion|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

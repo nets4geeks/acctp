@@ -11,6 +11,6 @@
 |Aggressor|su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
 |STRIDE|ns:STRIDE_Information_Disclosure|
-|THREAT||
+|Threat||
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

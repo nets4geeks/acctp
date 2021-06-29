@@ -11,6 +11,6 @@
 |Aggressor|su:comp_CloudApplication|
 |Aggr. role|ns:role_Server|
 |STRIDE|ns:STRIDE_Information_Disclosure;<br /> ns:STRIDE_Spoofing|
-|THREAT|ns:threat_txExploitingBadPolicies|
+|Threat|ns:threat_txExploitingBadPolicies|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

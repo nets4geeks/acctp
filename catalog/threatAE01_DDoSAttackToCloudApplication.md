@@ -11,6 +11,6 @@
 |Aggressor|su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
 |STRIDE|ns:STRIDE_Denial_of_Service|
-|THREAT|ns:threat_txTargetedProcessCrashing;<br /> ns:threat_txResourceExhaustion|
+|Threat|ns:threat_txTargetedProcessCrashing;<br /> ns:threat_txResourceExhaustion|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

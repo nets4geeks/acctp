@@ -11,6 +11,6 @@
 |Aggressor|su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
 |STRIDE|ns:STRIDE_Elevation_of_Privilege|
-|THREAT|ns:threat_txSpoofingPrivilegedProcesses;<br /> ns:threat_txInvokingUnauthorizedOperations;<br /> ns:threat_txUnauthorizedAccess;<br /> ns:threat_txLeveragingAuthorizationModel|
+|Threat|ns:threat_txSpoofingPrivilegedProcesses;<br /> ns:threat_txInvokingUnauthorizedOperations;<br /> ns:threat_txUnauthorizedAccess;<br /> ns:threat_txLeveragingAuthorizationModel|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

@@ -11,6 +11,6 @@
 |Aggressor|su:comp_ExternalService|
 |Aggr. role|ns:role_Server|
 |STRIDE|ns:STRIDE_Tampering|
-|THREAT|ns:threat_txMessageIntegrityViolation;<br /> ns:threat_txCorruption|
+|Threat|ns:threat_txMessageIntegrityViolation;<br /> ns:threat_txCorruption|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

@@ -11,6 +11,6 @@
 |Aggressor|su:comp_CloudApplication|
 |Aggr. role|ns:role_Server|
 |STRIDE|ns:STRIDE_Information_Disclosure;<br /> ns:STRIDE_Tampering|
-|THREAT|ns:threat_txTrafficAnalysisAndSniffing;<br /> ns:threat_txMessageSecrecyViolation;<br /> ns:threat_txSessionHijacking;<br /> ns:threat_txRoutePoisoning;<br /> ns:threat_txMessageReuse|
+|Threat|ns:threat_txTrafficAnalysisAndSniffing;<br /> ns:threat_txMessageSecrecyViolation;<br /> ns:threat_txSessionHijacking;<br /> ns:threat_txRoutePoisoning;<br /> ns:threat_txMessageReuse|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

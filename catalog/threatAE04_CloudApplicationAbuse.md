@@ -11,6 +11,6 @@
 |Aggressor|su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
 |STRIDE||
-|THREAT|ns:threat_txUnauthorizedAccess;<br /> ns:threat_txUnsafeCodeExecution;<br /> ns:threat_txResourceExhaustion|
+|Threat|ns:threat_txUnauthorizedAccess;<br /> ns:threat_txUnsafeCodeExecution;<br /> ns:threat_txResourceExhaustion|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

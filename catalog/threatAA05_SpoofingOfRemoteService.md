@@ -11,6 +11,6 @@
 |Aggressor|su:comp_ExternalService|
 |Aggr. role|ns:role_Server|
 |STRIDE|ns:STRIDE_Spoofing|
-|THREAT|ns:threat_txIdentitySpoofing;<br /> ns:threat_txMessageAuthenticityViolation;<br /> ns:threat_txSessionHijacking|
+|Threat|ns:threat_txIdentitySpoofing;<br /> ns:threat_txMessageAuthenticityViolation;<br /> ns:threat_txSessionHijacking|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
