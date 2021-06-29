@@ -11,5 +11,6 @@
 |Aggressor|su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
 |STRIDE|ns:STRIDE_Tampering|
+|THREAT|ns:threat_txSpoofingPrivilegedProcesses;<br /> ns:threat_txUnsafeCodeExecution;<br /> ns:threat_txExploitationOfTightComponentCoupling;<br /> ns:threat_txProcessOverflowAttack;<br /> ns:threat_txExploitingConcurrencyFlaws;<br /> ns:threat_txResourceExhaustion|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

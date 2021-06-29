@@ -11,5 +11,6 @@
 |Aggressor|su:comp_CloudApplication;<br /> su:comp_ExternalService;<br /> su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
 |STRIDE|ns:STRIDE_Repudiation|
+|THREAT|ns:threat_txRepudiation;<br /> ns:threat_txTrackErasing|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

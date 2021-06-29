@@ -11,5 +11,6 @@
 |Aggressor|su:comp_ComplianceManager|
 |Aggr. role|ns:role_Client|
 |STRIDE||
+|THREAT|ns:threat_txExploitingBadPolicies|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

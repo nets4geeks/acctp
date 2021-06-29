@@ -11,5 +11,6 @@
 |Aggressor|su:comp_CloudApplication;<br /> su:comp_ExternalService;<br /> su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
 |STRIDE|ns:STRIDE_Elevation_of_Privilege|
+|THREAT|ns:threat_txUnauthorizedAccess;<br /> ns:threat_txInvokingUnauthorizedOperations;<br /> ns:threat_txBypassingControls;<br /> ns:threat_txLeveragingAuthorizationModel|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

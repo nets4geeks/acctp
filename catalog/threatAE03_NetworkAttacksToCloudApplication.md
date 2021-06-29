@@ -11,5 +11,6 @@
 |Aggressor|su:comp_RemoteUser|
 |Aggr. role|ns:role_Client|
 |STRIDE||
+|THREAT|ns:threat_txTrafficAnalysisAndSniffing;<br /> ns:threat_txCovertNetworkChannel;<br /> ns:threat_txRoutePoisoning;<br /> ns:threat_txUseOfAbnormalPacketSizes;<br /> ns:threat_txUseOfReservedProtocolPackets;<br /> ns:threat_txProtocolStateExploitation;<br /> ns:threat_txScanningInformationGathering;<br /> ns:threat_txProbingVulnerabilityChecking|
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /

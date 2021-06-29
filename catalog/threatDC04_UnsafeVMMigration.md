@@ -11,5 +11,6 @@
 |Aggressor|su:comp_ComplianceManager|
 |Aggr. role|ns:role_Client|
 |STRIDE|ns:STRIDE_Information_Disclosure;<br /> ns:STRIDE_Tampering|
+|THREAT||
 
 / [Home](/acctp/) / [Catalog](/acctp/catalog/) /
